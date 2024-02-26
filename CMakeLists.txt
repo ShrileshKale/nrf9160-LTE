@@ -13,7 +13,6 @@ target_sources(app PRIVATE src/lte_connection.h)
 target_sources(app PRIVATE src/data_aquistion.c)
 target_sources(app PRIVATE src/data_aquistion.h)
 
-target_sources(app PRIVATE src/lte.h)
 
 
 
